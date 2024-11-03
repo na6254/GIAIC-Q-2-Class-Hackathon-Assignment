@@ -1,0 +1,115 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.overalldiv{
+  width: 1440px;
+}
+.headerdiv{
+  width: 1440px;
+  height: 102px;
+}
+.parentdiv{
+  display: flex;
+}
+.pic1div{
+  width: 277.76px;
+  height: 64px;
+  margin-top: 333px;
+  margin-left: 135px;
+}
+.pic2div{
+  width: 186px;
+  height: 64px;
+  margin-left: 135px;
+  margin-bottom: 368px;
+}
+.pic3div{
+  width: 770px;
+  height: 829px;
+  margin-left: 122px; 
+  margin-top: 3px;
+}
+.pic4div{
+  width: 53.95px;
+  height: 53px;
+  margin-left: 135px;
+  margin-top: -290px;
+}
+
+.pic5div{
+  width: 53.95px;
+  height: 53px;  
+  margin-left: 220px;
+  margin-top: -53px;
+
+}
+.pic6div{
+  width: 141.88px;
+  height: 52px;
+  margin-left: 135px;
+  margin-top: 90px;
+}
+.pic7div{
+  width: 221.81px;
+  height: 71px;
+  margin-top: -70px;
+  margin-left: 120px;
+}
+.pic8div{
+  width: 1170px;
+  height: 465px;
+  margin-top: 120px;
+  margin-left: 135px;
+}
+.pic9div{
+  width: 1170px;
+  height: 268px;
+  margin-top: 120px;
+  margin-left: 135px;
+}
+.pic10div{
+  width: 1170px;
+  height: 765px;
+  margin-top: 120px;
+  margin-left: 135px;
+}
+.pic11div{
+  width: 1170px;
+  height: 603px;
+  margin-top: 120px;
+  margin-left: 135px;
+}
+.footer{
+  width: 1440px;
+  height: 417px;
+  margin-top: 120px;
+}
+.gallerypic1{
+  margin-top: 63px;
+  margin-left: 135px;
+  width: 277.76px;
+  height: 128px;
+}
+.horizontal-line{
+  margin-top: 30px;
+  margin-left: 135px;
+  margin-bottom: 30px;
+  width: 1170px;
+  height: 1px;
+}
+.gallerytable{
+  margin-left: 130px;
+}
+.gallerypic13{
+  margin-top: 71px;
+  margin-left: 135px;
+}
+.gallerypic14{
+  margin-top: -55px;
+  margin-left: 304px;
+}
+.gallerypic15{
+  margin-top: -53px;
+  margin-left: 380px;
+}
